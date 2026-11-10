@@ -28,12 +28,11 @@ Here are some ideas to get you started:
 
 
 ## 🛠 About Me :
-----
 
 Hello, i am Harun aur Rashid Rana, i have been working as a Full stack web application developer. who enjoys building to modern, high performance and Professional Web application. Currently i am working for expand my skill and knowladge about latest technologies as well as..
 
 
---
+---
 
 
 # 💻 Tech Stack:
