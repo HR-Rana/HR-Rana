@@ -20,11 +20,21 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HR-Rana&label=Profile%20views&color=0e75b6&style=flat" alt="hr-rana" /> </p>
 
 
-- 📫 How to reach me **ariyanmahmud02019@gmail.com**
+- 📫 How to reach me **hrrana02019@gmail.com**
 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HRRana2000) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/h-r-rana-83770a200/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ariyanmahmud02019@gmail.com) 
+
+
+## 🛠 About Me :
+----
+
+Hello, i am Harun aur Rashid Rana, i have been working as a Full stack web application developer. who enjoys building to modern, high performance and Professional Web application. Currently i am working for expand my skill and knowladge about latest technologies as well as..
+
+
+--
+
 
 # 💻 Tech Stack:
 
