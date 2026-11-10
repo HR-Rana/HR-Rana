@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack:
 
-###** Frontend Tech **###
+### ** Frontend Tech ** ###
 
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
